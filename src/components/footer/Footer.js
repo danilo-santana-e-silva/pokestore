@@ -5,7 +5,7 @@ import './Footer.css'
 const Footer = () => (
     <footer className="app-footer"> 
     <div className="app-footer__message">
-        <p>Luana Cherri</p>
+        <p>Danilo Santana e Silva</p>
     </div>
            
     </footer>
